@@ -45,4 +45,5 @@ button {
 }
 .foods {
   display: flex;
+  flex-wrap: wrap;
 }
